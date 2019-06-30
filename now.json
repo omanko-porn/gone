@@ -9,7 +9,7 @@
     {
       "dest": "index.html",
       "src": "/.*",
-      "status": "410"
+      "status": 410
     }
   ],
   "scope": "omanko-porn",
