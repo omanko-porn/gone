@@ -1,0 +1,17 @@
+{
+  "alias": ["omanko.porn"],
+  "github": {
+    "silent": true
+  },
+  "name": "omanko-porn",
+  "regions": ["hnd1"],
+  "routes": [
+    {
+      "dest": "index.html",
+      "src": "/.*",
+      "status": "410"
+    }
+  ],
+  "scope": "omanko-porn",
+  "version": 2
+}
