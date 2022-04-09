@@ -1,0 +1,12 @@
+{
+  "github": {
+    "silent": true
+  },
+  "routes": [
+    {
+      "dest": "410.html",
+      "src": "/.*",
+      "status": 410
+    }
+  ]
+}
